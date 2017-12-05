@@ -1,3 +1,4 @@
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/JESUSANSWERS777/slack-bible.png?columns=all)](https://waffle.io/JESUSANSWERS777/slack-bible?utm_source=badge)
 #bible-bot
 
 Slack bot to detect Bible Verse References in your public Slack posts, and supply links to the verses on BibleGateway.
